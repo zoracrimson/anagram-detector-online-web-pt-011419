@@ -12,3 +12,4 @@ class Anagram
   end 
 array 
 end 
+end 
