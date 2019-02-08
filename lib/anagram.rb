@@ -10,6 +10,4 @@ class Anagram
     array.select do |word|
     word.split("").sort == @word.split("").sort
   end 
-array 
-end 
 end 
