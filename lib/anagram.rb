@@ -1,3 +1,7 @@
 class Anagram 
-  anagram = Anagram.new
+  
+  
+  def initialize(word)
+    @word = word
+  end
 end 
